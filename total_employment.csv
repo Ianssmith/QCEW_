@@ -1,0 +1,334 @@
+Year, Field, Percent_of_total_employment
+2000, "Total/All Government", 15.23
+2000, "Arts/Entertainment/and Recreation", 1.52
+2000, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2000, "Other Services/Ex. Public Admin", 3.75
+2000, Information, 5.25
+2000, Educational Services, 2.95
+2000, Unclassified, 0.21
+2000, Transportation and Warehousing, 3.17
+2000, Professional and Technical Services, 8.66
+2000, Retail Trade, 7.61
+2000, Health Care and Social Assistance, 13.24
+2000, Wholesale Trade, 4.19
+2000, Accommodation and Food Services, 5.41
+2000, Real Estate and Rental and Leasing, 3.21
+2000, Administrative and Waste Services, 5.76
+2000, Manufacturing, 4.78
+2000, Construction, 3.25
+2000, Management of Companies and Enterprises, 1.42
+2000, Mining, 0.00
+2000, Finance and Insurance, 9.99
+2000, Utilities, 0.40
+2001, "Total/All Government", 15.33
+2001, "Arts/Entertainment/and Recreation", 1.56
+2001, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2001, "Other Services/Ex. Public Admin", 3.78
+2001, Information, 5.20
+2001, Educational Services, 3.19
+2001, Unclassified, 0.33
+2001, Transportation and Warehousing, 3.11
+2001, Professional and Technical Services, 8.42
+2001, Retail Trade, 7.51
+2001, Health Care and Social Assistance, 13.65
+2001, Wholesale Trade, 4.12
+2001, Accommodation and Food Services, 5.48
+2001, Real Estate and Rental and Leasing, 3.22
+2001, Administrative and Waste Services, 5.60
+2001, Manufacturing, 4.34
+2001, Construction, 3.31
+2001, Management of Companies and Enterprises, 1.43
+2001, Mining, 0.00
+2001, Finance and Insurance, 10.02
+2001, Utilities, 0.41
+2002, "Total/All Government", 16.02
+2002, "Arts/Entertainment/and Recreation", 1.57
+2002, "Agriculture/Forestry/Fishing & Hunting", 0.00
+2002, "Other Services/Ex. Public Admin", 3.85
+2002, Information, 4.75
+2002, Educational Services, 3.40
+2002, Unclassified, 0.49
+2002, Transportation and Warehousing, 2.92
+2002, Professional and Technical Services, 8.04
+2002, Retail Trade, 7.60
+2002, Health Care and Social Assistance, 14.40
+2002, Wholesale Trade, 4.02
+2002, Accommodation and Food Services, 5.63
+2002, Real Estate and Rental and Leasing, 3.22
+2002, Administrative and Waste Services, 5.45
+2002, Manufacturing, 4.00
+2002, Construction, 3.22
+2002, Management of Companies and Enterprises, 1.60
+2002, Mining, 0.00
+2002, Finance and Insurance, 9.39
+2002, Utilities, 0.42
+2003, "Total/All Government", 15.94
+2003, "Arts/Entertainment/and Recreation", 1.65
+2003, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2003, "Other Services/Ex. Public Admin", 3.86
+2003, Information, 4.46
+2003, Educational Services, 3.51
+2003, Unclassified, 0.59
+2003, Transportation and Warehousing, 2.92
+2003, Professional and Technical Services, 8.04
+2003, Retail Trade, 7.67
+2003, Health Care and Social Assistance, 14.84
+2003, Wholesale Trade, 4.00
+2003, Accommodation and Food Services, 5.81
+2003, Real Estate and Rental and Leasing, 3.29
+2003, Administrative and Waste Services, 5.31
+2003, Manufacturing, 3.68
+2003, Construction, 3.18
+2003, Management of Companies and Enterprises, 1.69
+2003, Mining, 0.00
+2003, Finance and Insurance, 9.11
+2003, Utilities, 0.43
+2004, "Total/All Government", 15.80
+2004, "Arts/Entertainment/and Recreation", 1.71
+2004, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2004, "Other Services/Ex. Public Admin", 3.84
+2004, Information, 4.35
+2004, Educational Services, 3.55
+2004, Unclassified, 0.51
+2004, Transportation and Warehousing, 2.93
+2004, Professional and Technical Services, 8.19
+2004, Retail Trade, 7.82
+2004, Health Care and Social Assistance, 14.95
+2004, Wholesale Trade, 4.01
+2004, Accommodation and Food Services, 5.97
+2004, Real Estate and Rental and Leasing, 3.31
+2004, Administrative and Waste Services, 5.30
+2004, Manufacturing, 3.48
+2004, Construction, 3.14
+2004, Management of Companies and Enterprises, 1.61
+2004, Mining, 0.00
+2004, Finance and Insurance, 9.10
+2004, Utilities, 0.42
+2005, "Total/All Government", 15.58
+2005, "Arts/Entertainment/and Recreation", 1.72
+2005, "Agriculture/Forestry/Fishing & Hunting", 0.00
+2005, "Other Services/Ex. Public Admin", 3.88
+2005, Information, 4.33
+2005, Educational Services, 3.56
+2005, Unclassified, 0.51
+2005, Transportation and Warehousing, 2.86
+2005, Professional and Technical Services, 8.39
+2005, Retail Trade, 7.92
+2005, Health Care and Social Assistance, 15.02
+2005, Wholesale Trade, 3.94
+2005, Accommodation and Food Services, 6.05
+2005, Real Estate and Rental and Leasing, 3.31
+2005, Administrative and Waste Services, 5.28
+2005, Manufacturing, 3.25
+2005, Construction, 3.15
+2005, Management of Companies and Enterprises, 1.59
+2005, Mining, 0.00
+2005, Finance and Insurance, 9.22
+2005, Utilities, 0.42
+2006, "Total/All Government", 15.29
+2006, "Arts/Entertainment/and Recreation", 1.73
+2006, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2006, "Other Services/Ex. Public Admin", 3.86
+2006, Information, 4.31
+2006, Educational Services, 3.58
+2006, Unclassified, 0.60
+2006, Transportation and Warehousing, 2.89
+2006, Professional and Technical Services, 8.69
+2006, Retail Trade, 7.97
+2006, Health Care and Social Assistance, 15.07
+2006, Wholesale Trade, 3.89
+2006, Accommodation and Food Services, 6.12
+2006, Real Estate and Rental and Leasing, 3.28
+2006, Administrative and Waste Services, 5.17
+2006, Manufacturing, 2.96
+2006, Construction, 3.23
+2006, Management of Companies and Enterprises, 1.61
+2006, Mining, 0.00
+2006, Finance and Insurance, 9.33
+2006, Utilities, 0.42
+2007, "Total/All Government", 15.02
+2007, "Arts/Entertainment/and Recreation", 1.76
+2007, "Agriculture/Forestry/Fishing & Hunting", 0.00
+2007, "Other Services/Ex. Public Admin", 3.89
+2007, Information, 4.28
+2007, Educational Services, 3.58
+2007, Unclassified, 0.38
+2007, Transportation and Warehousing, 2.91
+2007, Professional and Technical Services, 8.91
+2007, Retail Trade, 8.05
+2007, Health Care and Social Assistance, 14.99
+2007, Wholesale Trade, 3.86
+2007, Accommodation and Food Services, 6.32
+2007, Real Estate and Rental and Leasing, 3.27
+2007, Administrative and Waste Services, 5.21
+2007, Manufacturing, 2.77
+2007, Construction, 3.41
+2007, Management of Companies and Enterprises, 1.59
+2007, Mining, 0.00
+2007, Finance and Insurance, 9.38
+2007, Utilities, 0.42
+2008, "Total/All Government", 14.96
+2008, "Arts/Entertainment/and Recreation", 1.84
+2008, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2008, "Other Services/Ex. Public Admin", 3.88
+2008, Information, 4.27
+2008, Educational Services, 3.69
+2008, Unclassified, 0.24
+2008, Transportation and Warehousing, 2.91
+2008, Professional and Technical Services, 9.06
+2008, Retail Trade, 8.07
+2008, Health Care and Social Assistance, 15.08
+2008, Wholesale Trade, 3.78
+2008, Accommodation and Food Services, 6.48
+2008, Real Estate and Rental and Leasing, 3.26
+2008, Administrative and Waste Services, 5.11
+2008, Manufacturing, 2.59
+2008, Construction, 3.50
+2008, Management of Companies and Enterprises, 1.65
+2008, Mining, 0.00
+2008, Finance and Insurance, 9.19
+2008, Utilities, 0.43
+2009, "Total/All Government", 15.38
+2009, "Arts/Entertainment/and Recreation", 1.85
+2009, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2009, "Other Services/Ex. Public Admin", 3.96
+2009, Information, 4.16
+2009, Educational Services, 3.88
+2009, Unclassified, 0.31
+2009, Transportation and Warehousing, 2.86
+2009, Professional and Technical Services, 8.81
+2009, Retail Trade, 8.08
+2009, Health Care and Social Assistance, 15.81
+2009, Wholesale Trade, 3.63
+2009, Accommodation and Food Services, 6.68
+2009, Real Estate and Rental and Leasing, 3.25
+2009, Administrative and Waste Services, 4.96
+2009, Manufacturing, 2.29
+2009, Construction, 3.29
+2009, Management of Companies and Enterprises, 1.65
+2009, Mining, 0.00
+2009, Finance and Insurance, 8.71
+2009, Utilities, 0.45
+2010, Mining, 0.00
+2010, Finance and Insurance, 8.52
+2010, Utilities, 0.44
+2010, "Total/All Government", 15.26
+2010, "Arts/Entertainment/and Recreation", 1.85
+2010, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2010, "Other Services/Ex. Public Admin", 3.97
+2010, Information, 4.17
+2010, Educational Services, 3.97
+2010, Unclassified, 0.33
+2010, Transportation and Warehousing, 2.80
+2010, Professional and Technical Services, 8.66
+2010, Retail Trade, 8.36
+2010, Health Care and Social Assistance, 15.93
+2010, Wholesale Trade, 3.58
+2010, Accommodation and Food Services, 7.00
+2010, Real Estate and Rental and Leasing, 3.24
+2010, Administrative and Waste Services, 5.06
+2010, Manufacturing, 2.12
+2010, Construction, 3.03
+2010, Management of Companies and Enterprises, 1.70
+2011, Mining, 0.00
+2011, Finance and Insurance, 8.66
+2011, "Total/All Government", 14.61
+2011, "Arts/Entertainment/and Recreation", 1.84
+2011, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2011, "Other Services/Ex. Public Admin", 4.03
+2011, Information, 4.31
+2011, Educational Services, 4.04
+2011, Unclassified, 0.37
+2011, Transportation and Warehousing, 2.82
+2011, Professional and Technical Services, 8.86
+2011, Retail Trade, 8.53
+2011, Health Care and Social Assistance, 15.90
+2011, Wholesale Trade, 3.57
+2011, Accommodation and Food Services, 7.41
+2011, Real Estate and Rental and Leasing, 3.19
+2011, Administrative and Waste Services, 5.13
+2011, Manufacturing, 2.05
+2011, Construction, 2.96
+2011, Management of Companies and Enterprises, 1.73
+2012, Mining, 0.00
+2012, Finance and Insurance, 8.39
+2012, "Total/All Government", 14.23
+2012, "Arts/Entertainment/and Recreation", 1.92
+2012, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2012, "Other Services/Ex. Public Admin", 4.08
+2012, Information, 4.32
+2012, Educational Services, 4.12
+2012, Unclassified, 0.31
+2012, Transportation and Warehousing, 2.78
+2012, Professional and Technical Services, 9.09
+2012, Retail Trade, 8.67
+2012, Health Care and Social Assistance, 15.87
+2012, Wholesale Trade, 3.52
+2012, Accommodation and Food Services, 7.72
+2012, Real Estate and Rental and Leasing, 3.13
+2012, Administrative and Waste Services, 5.12
+2012, Manufacturing, 2.03
+2012, Construction, 2.99
+2012, Management of Companies and Enterprises, 1.69
+2013, Mining, 0.00
+2013, Finance and Insurance, 8.11
+2013, "Total/All Government", 13.91
+2013, "Arts/Entertainment/and Recreation", 1.99
+2013, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2013, "Other Services/Ex. Public Admin", 4.11
+2013, Information, 4.28
+2013, Educational Services, 4.12
+2013, Unclassified, 0.32
+2013, Transportation and Warehousing, 2.71
+2013, Professional and Technical Services, 9.19
+2013, Retail Trade, 8.79
+2013, Health Care and Social Assistance, 15.97
+2013, Wholesale Trade, 3.46
+2013, Accommodation and Food Services, 7.96
+2013, Real Estate and Rental and Leasing, 3.12
+2013, Administrative and Waste Services, 5.20
+2013, Manufacturing, 1.98
+2013, Construction, 3.07
+2013, Management of Companies and Enterprises, 1.70
+2014, Mining, 0.00
+2014, Finance and Insurance, 8.02
+2014, Utilities, 0.38
+2014, "Total/All Government", 13.43
+2014, "Arts/Entertainment/and Recreation", 2.01
+2014, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2014, "Other Services/Ex. Public Admin", 4.09
+2014, Information, 4.31
+2014, Educational Services, 4.09
+2014, Unclassified, 0.49
+2014, Transportation and Warehousing, 2.70
+2014, Professional and Technical Services, 9.19
+2014, Retail Trade, 8.72
+2014, Health Care and Social Assistance, 16.02
+2014, Wholesale Trade, 3.38
+2014, Accommodation and Food Services, 8.16
+2014, Real Estate and Rental and Leasing, 3.08
+2014, Administrative and Waste Services, 5.19
+2014, Manufacturing, 1.91
+2014, Construction, 3.13
+2014, Management of Companies and Enterprises, 1.70
+2015, Mining, 0.00
+2015, Finance and Insurance, 7.95
+2015, Utilities, 0.37
+2015, "Total/All Government", 13.14
+2015, "Arts/Entertainment/and Recreation", 2.00
+2015, "Agriculture/Forestry/Fishing & Hunting", 0.01
+2015, "Other Services/Ex. Public Admin", 4.11
+2015, Information, 4.28
+2015, Educational Services, 4.26
+2015, Unclassified, 0.54
+2015, Transportation and Warehousing, 2.77
+2015, Professional and Technical Services, 9.37
+2015, Retail Trade, 8.50
+2015, Health Care and Social Assistance, 15.85
+2015, Wholesale Trade, 3.30
+2015, Accommodation and Food Services, 8.33
+2015, Real Estate and Rental and Leasing, 3.08
+2015, Administrative and Waste Services, 5.30
+2015, Manufacturing, 1.89
+2015, Construction, 3.28
+2015, Management of Companies and Enterprises, 1.67
