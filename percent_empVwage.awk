@@ -82,44 +82,44 @@ for(t in empDecils){
 END{
 #{print "Wage"}
 #{print "\n\n"}
-#{print "Year, Field, Percent_of_total_wage"}
-#percenter(salPrint, x0, 2000, "wage")#;{print x0}
-#percenter(salPrint, x1, 2001, "wage")#;{print x1}
-#percenter(salPrint, x2, 2002, "wage")#;{print x2}
-#percenter(salPrint, x3, 2003, "wage")#;{print x3}
-#percenter(salPrint, x4, 2004, "wage")#;{print x4}
-#percenter(salPrint, x5, 2005, "wage")#;{print x5}
-#percenter(salPrint, x6, 2006, "wage")#;{print x6}
-#percenter(salPrint, x7, 2007, "wage")#;{print x7}
-#percenter(salPrint, x8, 2008, "wage")#;{print x8}
-#percenter(salPrint, x9, 2009, "wage")#;{print x9}
-#percenter(salPrint, x10, 2010, "wage")#;{print x10}
-#percenter(salPrint, x11, 2011, "wage")#;{print x11}
-#percenter(salPrint, x12, 2012, "wage")#;{print x12}
-#percenter(salPrint, x13, 2013, "wage")#;{print x13}
-#percenter(salPrint, x14, 2014, "wage")#;{print x14}
-#percenter(salPrint, x, 2015, "wage")#;{print x}
+{print "Year,Field,Percent_wage"}
+percenter(salPrint, x0, 2000, "wage")#;{print x0}
+percenter(salPrint, x1, 2001, "wage")#;{print x1}
+percenter(salPrint, x2, 2002, "wage")#;{print x2}
+percenter(salPrint, x3, 2003, "wage")#;{print x3}
+percenter(salPrint, x4, 2004, "wage")#;{print x4}
+percenter(salPrint, x5, 2005, "wage")#;{print x5}
+percenter(salPrint, x6, 2006, "wage")#;{print x6}
+percenter(salPrint, x7, 2007, "wage")#;{print x7}
+percenter(salPrint, x8, 2008, "wage")#;{print x8}
+percenter(salPrint, x9, 2009, "wage")#;{print x9}
+percenter(salPrint, x10, 2010, "wage")#;{print x10}
+percenter(salPrint, x11, 2011, "wage")#;{print x11}
+percenter(salPrint, x12, 2012, "wage")#;{print x12}
+percenter(salPrint, x13, 2013, "wage")#;{print x13}
+percenter(salPrint, x14, 2014, "wage")#;{print x14}
+percenter(salPrint, x, 2015, "wage")#;{print x}
 #{print "\n"}
 
 #{print "Employment"}
 #{print "\n\n"}
-{print "Year, Field, Percent_of_total_employment"}
-percenter(emp, e0, 2000)#;{print e0}
-percenter(emp, e1, 2001)#;{print e1}
-percenter(emp, e2, 2002)#;{print e2}
-percenter(emp, e3, 2003)#;{print e3}
-percenter(emp, e4, 2004)#;{print e4}
-percenter(emp, e5, 2005)#;{print e5}
-percenter(emp, e6, 2006)#;{print e6}
-percenter(emp, e7, 2007)#;{print e7}
-percenter(emp, e8, 2008)#;{print e8}
-percenter(emp, e9, 2009)#;{print e9}
-percenter(emp, e10, 2010)#;{print e10}
-percenter(emp, e11, 2011)#;{print e11}
-percenter(emp, e12, 2012)#;{print e12}
-percenter(emp, e13, 2013)#;{print e13}
-percenter(emp, e14, 2014)#;{print e14}
-percenter(emp, etotal, 2015)#;{print etotal}
+#{print "Year,Field,Percent_employment"}
+#percenter(emp, e0, 2000)#;{print e0}
+#percenter(emp, e1, 2001)#;{print e1}
+#percenter(emp, e2, 2002)#;{print e2}
+#percenter(emp, e3, 2003)#;{print e3}
+#percenter(emp, e4, 2004)#;{print e4}
+#percenter(emp, e5, 2005)#;{print e5}
+#percenter(emp, e6, 2006)#;{print e6}
+#percenter(emp, e7, 2007)#;{print e7}
+#percenter(emp, e8, 2008)#;{print e8}
+#percenter(emp, e9, 2009)#;{print e9}
+#percenter(emp, e10, 2010)#;{print e10}
+#percenter(emp, e11, 2011)#;{print e11}
+#percenter(emp, e12, 2012)#;{print e12}
+#percenter(emp, e13, 2013)#;{print e13}
+#percenter(emp, e14, 2014)#;{print e14}
+#percenter(emp, etotal, 2015)#;{print etotal}
 
 #{for(k in salPrint){
 #	split(k,splitter,SUBSEP)
@@ -149,9 +149,9 @@ function percenter(arr, total, year, category){
 		split(h,tempsplitter,SUBSEP)
 			if(tempsplitter[2]==year)
 			if(category=="wage")
-				printf("%d, %s, %.2f\n", tempsplitter[2], tempsplitter[1], 100*arr[h]/total)
+				printf("%d,%s,%.2f\n", tempsplitter[2], tempsplitter[1], 100*arr[h]/total)
 			else 
-				printf("%d, %s, %.2f\n", tempsplitter[2], tempsplitter[1], 100*arr[h]/total)
+				printf("%d,%s,%.2f\n", tempsplitter[2], tempsplitter[1], 100*arr[h]/total)
 			
 	}
 #{print "\n"}
